@@ -1,1 +1,1 @@
-Learnt a bit about puloading to gethub
+Learnt a bit about puloading to github
